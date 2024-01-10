@@ -1,17 +1,13 @@
-# ritsbook
+# RitsBookとは
 
-A new Flutter project.
+![Ritsbook](https://github.com/watnows/RitsBook/assets/85158805/f50223e5-2579-4937-8b48-7bc633f39972)
 
-## Getting Started
+# RitsBookとは
+「教科書代が高すぎる」「要らなくなった教科書を売りたい」「梱包が面倒」といった経験はありませんか？
 
-This project is a starting point for a Flutter application.
+そんなときはRitsBookで直接取引出来る相手を探しましょう！
 
-A few resources to get you started if this is your first Flutter project:
+現状利用できるものはこちら
+https://ritsbook.netlify.app/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# RitsBook
+![image](https://github.com/watnows/RitsBook/assets/85158805/8dd2aaa0-8e20-4c46-ad4e-ad294bef7f01)

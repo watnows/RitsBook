@@ -1,4 +1,4 @@
-# RitsBookとは
+# RitsBook
 
 ![Ritsbook](https://github.com/watnows/RitsBook/assets/85158805/f50223e5-2579-4937-8b48-7bc633f39972)
 
